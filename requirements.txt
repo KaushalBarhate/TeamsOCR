@@ -1,0 +1,5 @@
+datetime
+Pillow
+pyperclip
+opencv-python
+pytesseract
